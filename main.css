@@ -1,0 +1,9 @@
+.center {
+  text-align: center;
+}
+
+#board p {
+  font-size: 35pt;
+  letter-spacing: 35px;
+  margin: -5px;
+}
